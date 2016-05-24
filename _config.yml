@@ -1,4 +1,3 @@
-layout_spectrum: 0.7384165145922452
 typography_spectrum: 0.6706726101692766
 color:
   brandStrength: 0.3752432889305055
@@ -11,4 +10,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: Interior Inspiration
+layout_spectrum: 0.7384165145922452
+author:
+  name: Rupert Marlow
+  email: rupert@rupertmarlow.com
+  url: www.rupertmarlow.com
+name: Q and A Weddings
+title: 'Ask us anything!'
