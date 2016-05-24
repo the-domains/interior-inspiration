@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Interior Inspiration]]></title>
         <description><![CDATA[Interior Inspiration]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/interior-inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 13:18:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 13:19:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/interior-inspiration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[High Velocity Aerial Filming]]></title>
+            <description><![CDATA[<article><h1>High Velocity Aerial Filming</h1><p>Aerial Filming took a giant leap forward when Blue Sky and Peter Degerfeldt challenged Gyro-stabilized Systems in Grass Valley, US, to build a GSS 520 5 axis system that would produce rock solid images at a speed of more than 300 knots per hour.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4aa7ef75a0a8a8ecf32ab754c91f7cc08ad0d54.jpg"></article>]]></description>
+            <link>https://vimeo.com/162088181</link>
+            <guid isPermaLink="false">03891618-0a7b-459f-9cbd-0ab4be37b444</guid>
+            <pubDate>Tue, 24 May 2016 13:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
+            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
+            <guid isPermaLink="false">56717fc5-cf95-430f-9fb2-b495b6eca11a</guid>
+            <pubDate>Tue, 24 May 2016 13:18:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Underwater Dogs: photographs of dogs underwater by Seth Casteel]]></title>
             <description><![CDATA[<article><h1>Underwater Dogs: photographs of dogs underwater by Seth Casteel</h1><p>Underwater Dogs - a book containing over 80 unique photographs of dogs underwater snapped by animal photographer Seth Casteel is published on 25th October 2012 by Headline Books, priced &pound;14.99.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c80db14606103fbacd2b64d680024ffe80aa6f49.jpg"></article>]]></description>
